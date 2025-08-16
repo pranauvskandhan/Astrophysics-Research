@@ -34,3 +34,9 @@ Both projects are implemented in Python, making use of the following ecosystem:
 
 
 This portfolio demonstrates the application of observational data and computational methods to open problems in astrophysics and cosmology.
+
+---
+
+### Note on LaTeX Sources
+The LaTeX source files (`.tex`) are included in this repository to ensure full transparency and reproducibility of the research papers. They demonstrate the complete workflow behind the preparation of the final reports, from data analysis in Jupyter notebooks to professional scientific writing. Auxiliary build files (`.aux`, `.log`, `.out`, etc.) are excluded for clarity.
+
